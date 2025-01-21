@@ -1,0 +1,16 @@
+{
+  "os": "OS X",
+  "os_version": "Monterey",
+  "browser": "Chrome",
+  "browser_version": "101",
+  "resolution": "2048x1536",
+  "name": "Test Name",
+  "buildName": "Build 1.0",
+  "project": "QA Automation Project",
+  "chromeOptions": {
+    "args": [
+      "--use-fake-device-for-media-stream",
+      "--use-fake-ui-for-media-stream"
+    ]
+  }
+}
